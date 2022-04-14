@@ -14,8 +14,6 @@
   <img align="center" alt="Max-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Max-Node.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Max-Mongodb" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
-  <img align="right" alt="Max" src="![fc2116fb21de12a62d4b36c31bbb1e6f](https://user-images.githubusercontent.com/100383972/163421517-e8e941af-26ae-4ff3-ad24-8a002d4b7268.gif)
-">
 </div>
   
 ##
