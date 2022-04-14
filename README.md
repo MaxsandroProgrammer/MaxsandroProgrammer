@@ -21,7 +21,6 @@
  
 <div>
   <a href="https://www.linkedin.com/in/maxsandro-aquino-da-paix%C3%A3o-681262236/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:maxsandro.sundry@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
   ![Snake animation](https://github.com/MaxsandroProgrammer/MaxsandroProgrammer/blob/output/github-contribution-grid-snake.svg)
 </div>
