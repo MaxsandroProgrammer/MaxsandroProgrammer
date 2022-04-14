@@ -14,9 +14,8 @@
   <img align="center" alt="Max-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Max-Node.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Max-Mongodb" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
-  <img align="center" alt="Max" height="300" width="200" src="">
+  <img align="right" alt="Max" height="150" style="border-radius:100px;" src="https://github.com/MaxsandroProgrammer/MaxsandroProgrammer/blob/main/fc2116fb21de12a62d4b36c31bbb1e6f.gif">
 </div>
-  
   
 ##
  
@@ -26,6 +25,4 @@
   
   ![Snake animation](https://github.com/MaxsandroProgrammer/MaxsandroProgrammer/blob/output/github-contribution-grid-snake.svg)
 </div>
-  
-![fc2116fb21de12a62d4b36c31bbb1e6f](https://user-images.githubusercontent.com/100383972/163422278-21e01c16-209a-420d-8500-5d3a20b50ce1.gif)
   
