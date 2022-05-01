@@ -1,38 +1,31 @@
-## Oi! Eu sou o Maxsandro, Estudante de programação!
+Hi 👋 My name is Maxsandro
+==========================
+
+Desenvolvedor front-end
+-----------------------
+
+Conheci a programação através da minha bolsa de monitor de informática durante meu ensino médio e minha professora apresentou sobre hardware e software, e hoje sou estudante de tecnologia da informação.
+
+* ✉️  You can contact me at [maxsandro.sundry@gmail.com](mailto:maxsandro.sundry@gmail.com)
+* 🧠  I'm learning React/React Native
+
+### Skills
+
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
+<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
+</p>
 
 
-### Github stats ⭐
-<div align="center">
-  <a href="https://github.com/MaxsandroProgrammer">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MaxsandroProgrammer&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxsandroProgrammer&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+### Socials
 
+<p align="left"> <a href="https://www.github.com/MaxsandroProgrammer" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/maxsandro-aquino-da-paixão-681262236/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-## Tecnologias que eu uso/estudo no meu dia
-<div style="display: inline_block"><br>
-  <img align="center" alt="Max-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Max-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Max-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Max-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Max-Node.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Max-Mongodb" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
-</div>
-  
-##
- 
-<div>
-  
- ### Fale comigo!
- <div>
-    <a href = "mailto:maxsandro.sundry@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
-    </a>
-    <a href="https://www.linkedin.com/in/maxsandro-aquino-da-paix%C3%A3o-681262236/" target="_blank">
-      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-    </a>
-  </div>
- 
-  ![Snake animation](https://github.com/MaxsandroProgrammer/MaxsandroProgrammer/blob/output/github-contribution-grid-snake.svg)
-</div>
-  
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/MaxsandroProgrammer"><img src="https://github-readme-stats.vercel.app/api?username=MaxsandroProgrammer&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="MaxsandroProgrammer's GitHub stats" /></a>
